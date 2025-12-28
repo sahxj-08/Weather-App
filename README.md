@@ -2,18 +2,21 @@
 A simple python weather app
 
 I designed this app to practice error handling   
-and learn about API 
+and learn about external APIs 
 
 Features:
-- Temperature in Celsius
-- Basic weather forecast
+- Displays current temperature in Celsius
+- Shows a basic weather forecast
 
 Future Additions:
-- Clean and interactive UI
-- More weather features
+- Clean, interactive UI
+- Additional weather data
+- Better user input validation
+  
 
 TechStack:
 - Python
+- Weather API (OpenWeatherMap)
 
 
 
