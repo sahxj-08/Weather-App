@@ -1,4 +1,4 @@
-**Weather-App**  
+# Weather-App
 A simple python weather app
 
 I designed this app to practice error handling   
