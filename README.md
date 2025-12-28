@@ -1,7 +1,7 @@
-**Weather-App**
-\n A simple python weather app
+**Weather-App**  
+A simple python weather app
 
-I designed this app to practice error handling 
+I designed this app to practice error handling   
 and learn about API 
 
 Features:
